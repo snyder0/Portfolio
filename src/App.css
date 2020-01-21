@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+
+.NavBar {
+  background-color: #444444;
+}
+
+.Navbar-Links {
+  color: rgba(255,255,255,.75);
+}
+
+.header-image {
+  background-image: url("./Images/hs1.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 50rem;
+}
+
+.header-title {
+  font-size: 7.5rem;
+}
+
+.header-subtitle {
+  font-size: 3.25rem;
+}
+
+.jumbotron {
+  background-size: cover;
+  background-repeat: no-repeat;
+}
