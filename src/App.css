@@ -37,6 +37,10 @@
   }
 }
 
+body {
+  background-color: #e9ecef;
+}
+
 .NavBar {
   background-color: #444444;
 }
@@ -61,6 +65,7 @@
 }
 
 .jumbotron {
+  /* /background-image: url("./Images/seats.jpg"); */
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -69,5 +74,7 @@
   background-image: url("./Images/hs1.jpg");
   background-size: contain;
   background-repeat: no-repeat;
-  height: 36rem;
+  height: 33rem;
 }
+
+
